@@ -1,4 +1,4 @@
-# DMM WEBCAMPのJavaカリキュラム(基礎学習)
+# Javaカリキュラム(基礎学習)
 
 ## Java学習内容(統合開発環境Eclipse)
 
